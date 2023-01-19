@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "chalk": "^5.1.2",
+    "cli-color": "^2.0.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
