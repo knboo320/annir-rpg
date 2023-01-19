@@ -20,6 +20,7 @@ Desenvolvido durantes as aulas de Fundamentos de Lógica de Programação Orient
 
 * Descrição do Projeto
 * Como jogar
+* Caminhos da História
 * Tecnologias
 * Autores
 
