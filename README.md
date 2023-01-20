@@ -64,5 +64,5 @@ Foram utilizadas as seguintes tecnologias:
 
 ## 👨‍💼 Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/117852880?v=4" width=115><br><sub>Nicollas Rocha</sub>](https://github.com/knboo320) |  [<img src="https://avatars.githubusercontent.com/u/117325291?v=4" width=115><br><sub>Caroline Moreno</sub>](https://github.com/caroline-moreno) |  [<img src="https://avatars.githubusercontent.com/u/117850709?v=4" width=115><br><sub>Bruno Santos Martins</sub>](https://github.com/amikjrt) |  [<img src="https://i.imgur.com/AgFrduH.png" width=115><br><sub>Miguel Contini</sub>](https://www.instagram.com/contini.miguell/) |
+| [<img src="https://avatars.githubusercontent.com/u/117852880?v=4" width=115><br><sub>Nicollas Rocha</sub>](https://github.com/knboo320) |  [<img src="https://avatars.githubusercontent.com/u/117325291?v=4" width=115><br><sub>Caroline Moreno</sub>](https://github.com/caroline-moreno) |  [<img src="https://avatars.githubusercontent.com/u/117850709?v=4" width=115><br><sub>Bruno Martins</sub>](https://github.com/amikjrt) |  [<img src="https://i.imgur.com/AgFrduH.png" width=115><br><sub>Miguel Contini</sub>](https://www.instagram.com/contini.miguell/) |
 | :---: | :---: | :---: | :---: |
